@@ -1,0 +1,1 @@
+function a(t) { console.log(t); return t; }
